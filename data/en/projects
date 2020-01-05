@@ -1,0 +1,6 @@
+sp-feedforward-neuralnetworks;;https://sp-ffneuralnetwork.firebaseapp.com/Examples;;June 2016 - September 2017;;A feedforward neural network visualizer and tester using Vue.js, d3, mathjs and firebase.
+SPANN / RSPANN;;https://gitlab.com/cesandovalp/SPANN;;2015 - 2018;;C++ artificial neural network library and R package using Rcpp. The library has some models of artificial neural networks and functionalities to experiment.
+SPGO / RSPGO;;https://gitlab.com/cesandovalp/SPGO;;2014 - 2018;;C++ optimization library and R package. The library has estructures and algorithms of many optimization methods.
+RNeuroEvolution;;https://gitlab.com/cesandovalp/RNeuroEvolution;;2017 - 2018;;R package that contains some neuroevolution strategies and data visualization tools.
+RTimeSeriesPE;;https://gitlab.com/cesandovalp/SPPE;;2015 - 2016;;R package for parameter estimation in the ARMA - ARIMA models using evolutionary computing techniques.
+Viviendo-Nuestro-Rock;;https://testapp-8e372.firebaseapp.com/;;December 2017;;Web app developed for the hackathon ”BibloRock: una historia 3.0 de Rock al parque” (December 13 and 14 2017).
